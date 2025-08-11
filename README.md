@@ -1,2 +1,2 @@
 # Sampu
-its my firs Ecommerce Project
+its my firs Ecommerce Projects
