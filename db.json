@@ -1,0 +1,627 @@
+{
+  "seller": [
+    {
+      "id": "7e8b",
+      "name": "sam",
+      "password": "123",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": "fac7",
+      "name": "man",
+      "password": "123",
+      "email": "man@123"
+    },
+    {
+      "id": "340d",
+      "name": "sanju",
+      "password": "123",
+      "email": "sanju@gmial.com"
+    },
+    {
+      "id": "ee58",
+      "name": "su",
+      "password": "123",
+      "email": "su@g.con"
+    },
+    {
+      "id": "35d1",
+      "name": "sur",
+      "password": "123",
+      "email": "sur@gmail.com"
+    },
+    {
+      "id": "7cbd",
+      "name": "ragu",
+      "password": "123",
+      "email": "ragu2@gmail.com"
+    },
+    {
+      "id": "a89d",
+      "name": "santu",
+      "password": "123",
+      "email": "santu@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "name": "Apple",
+      "price": "10000",
+      "color": "red",
+      "category": "Mobile",
+      "description": "Apple its good product, New in feature",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": "4ae8"
+    },
+    {
+      "name": "Ashok",
+      "price": "10000",
+      "color": "Red",
+      "category": "Lorry",
+      "description": "Its Indian Brand, Make purchase proudly",
+      "image": "https://4.imimg.com/data4/MP/DB/MY-4940798/lorry-truck-1000x1000.jpg",
+      "id": "b3cf"
+    },
+    {
+      "name": "Nike",
+      "price": "20000",
+      "color": "red",
+      "category": "Shoes",
+      "description": "Its American Brand . ",
+      "image": "https://images.meesho.com/images/products/52073089/ccajh_512.avif?width=512",
+      "id": "d300"
+    },
+    {
+      "name": "HP",
+      "price": "20000",
+      "color": "green",
+      "category": "Laptop",
+      "description": "its good product multi user ",
+      "image": "https://m.media-amazon.com/images/I/41VeyHGM0uL._SX300_SY300_QL70_FMwebp_.jpg",
+      "id": "8a7c"
+    },
+    {
+      "id": "38af",
+      "name": "Prime TV",
+      "price": "30000",
+      "color": "Black",
+      "category": "TV",
+      "description": "Goood",
+      "image": "https://m.media-amazon.com/images/I/51ipPzCMRSL._SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "name": "TCL",
+      "price": "50000",
+      "color": "Blue",
+      "category": "TV",
+      "description": "Chines Brand, ",
+      "image": "https://aws-obg-image-lb-1.tcl.com/content/dam/brandsite/global/images-for-blog/the-best-picture-quality-tv-in-2023-and-tips-for-better-picture-quality.jpg?t=1684228476283&w=2560",
+      "id": "d7df"
+    },
+    {
+      "name": "Allensoly",
+      "price": "2000",
+      "color": "Blue",
+      "category": "Jeans",
+      "description": "Its Indian Brand, made for pure cotton",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaeDpeK5tfTrc1-YPiHM6CY3xf4XJklDPyA1ioq2J1CRsSzTWxY9qShwwPoMA4rlus41BykaFohFM7jAS6x37ETUqs4XXDgN5S67zy7nMjD66GxbkbEFDX",
+      "id": "1e91"
+    }
+  ],
+  "users": [
+    {
+      "name": "Shravan kumar",
+      "password": "123",
+      "email": "shravanbsangavi@gmail.com",
+      "id": "1"
+    },
+    {
+      "name": "tanu",
+      "password": "123",
+      "email": "tanu@gmail.com",
+      "id": "2"
+    },
+    {
+      "id": "5de0",
+      "name": "sam",
+      "password": "sam123",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": "cfdd",
+      "name": "siva",
+      "password": "123",
+      "email": "siva@gmail.com"
+    },
+    {
+      "id": "ce36",
+      "name": "soma",
+      "password": "123",
+      "email": "soma@gmail.com"
+    },
+    {
+      "id": "405d",
+      "name": "manu",
+      "password": "123",
+      "email": "manu@123"
+    },
+    {
+      "id": "9f05",
+      "name": "su",
+      "password": "su123",
+      "email": "su@gmail.com"
+    },
+    {
+      "id": "b4ac",
+      "name": "Manjula",
+      "password": "123",
+      "email": "manjula@gmail.com"
+    },
+    {
+      "id": "e5c4",
+      "name": "viju",
+      "password": "123",
+      "email": "viju@gmai.com"
+    }
+  ],
+  "cart": [
+    {
+      "name": "HP",
+      "price": "20000",
+      "color": "green",
+      "category": "Laptop",
+      "description": "Nice ",
+      "image": "https://m.media-amazon.com/images/I/41VeyHGM0uL._SX300_SY300_QL70_FMwebp_.jpg",
+      "id": "8a7c",
+      "quantity": 2,
+      "userId": 1,
+      "productId": "8a7c"
+    },
+    {
+      "name": "Apple",
+      "price": "10000",
+      "color": "red",
+      "category": "Mobile",
+      "description": "good",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": "4ae8",
+      "quantity": 4,
+      "userId": 1,
+      "productId": "4ae8"
+    },
+    {
+      "name": "Nike",
+      "price": "20000",
+      "color": "red",
+      "category": "Shoes",
+      "description": "good",
+      "image": "https://images.meesho.com/images/products/52073089/ccajh_512.avif?width=512",
+      "quantity": 4,
+      "productId": "d300",
+      "userId": 1,
+      "id": "aqzt0VF"
+    },
+    {
+      "name": "HP",
+      "price": "20000",
+      "color": "green",
+      "category": "Laptop",
+      "description": "Nice ",
+      "image": "https://m.media-amazon.com/images/I/41VeyHGM0uL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 2,
+      "userId": 1,
+      "productId": "8a7c",
+      "id": "heecdDz"
+    },
+    {
+      "name": "Ashok",
+      "price": "10000",
+      "color": "Red",
+      "category": "Lorry",
+      "description": "Nice",
+      "image": "https://4.imimg.com/data4/MP/DB/MY-4940798/lorry-truck-1000x1000.jpg",
+      "quantity": 2,
+      "userId": 2,
+      "productId": "b3cf",
+      "id": "MYWJYfa"
+    },
+    {
+      "id": "d574",
+      "name": "Apple",
+      "price": "10000",
+      "color": "red",
+      "category": "Mobile",
+      "description": "good",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 2,
+      "userId": 2,
+      "productId": "4ae8"
+    },
+    {
+      "id": "05a5",
+      "name": "Apple",
+      "price": "10000",
+      "color": "red",
+      "category": "Mobile",
+      "description": "good",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "userId": 2,
+      "productId": "4ae8"
+    },
+    {
+      "id": "69f8",
+      "name": "Apple",
+      "price": "10000",
+      "color": "red",
+      "category": "Mobile",
+      "description": "good",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 4,
+      "userId": 2,
+      "productId": "4ae8"
+    },
+    {
+      "id": "6a35",
+      "name": "Apple",
+      "price": "10000",
+      "color": "red",
+      "category": "Mobile",
+      "description": "good",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 3,
+      "userId": 2,
+      "productId": "4ae8"
+    },
+    {
+      "id": "794a",
+      "name": "Apple",
+      "price": "10000",
+      "color": "red",
+      "category": "Mobile",
+      "description": "good",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 3,
+      "userId": 2,
+      "productId": "4ae8"
+    },
+    {
+      "id": "a343",
+      "name": "Apple",
+      "price": "10000",
+      "color": "red",
+      "category": "Mobile",
+      "description": "good",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 3,
+      "userId": 2,
+      "productId": "4ae8"
+    },
+    {
+      "id": "2e21",
+      "name": "Nike",
+      "price": "20000",
+      "color": "red",
+      "category": "Shoes",
+      "description": "good",
+      "image": "https://images.meesho.com/images/products/52073089/ccajh_512.avif?width=512",
+      "quantity": 4,
+      "userId": 2,
+      "productId": "d300"
+    },
+    {
+      "id": "0837",
+      "name": "Nike",
+      "price": "20000",
+      "color": "red",
+      "category": "Shoes",
+      "description": "good",
+      "image": "https://images.meesho.com/images/products/52073089/ccajh_512.avif?width=512",
+      "quantity": 3,
+      "userId": 2,
+      "productId": "d300"
+    },
+    {
+      "id": "124b",
+      "name": "Ashok",
+      "price": "10000",
+      "color": "Red",
+      "category": "Lorry",
+      "description": "Nice",
+      "image": "https://4.imimg.com/data4/MP/DB/MY-4940798/lorry-truck-1000x1000.jpg",
+      "quantity": 3,
+      "userId": "5de0",
+      "productId": "b3cf"
+    },
+    {
+      "id": "3718",
+      "name": "Ashok",
+      "price": "10000",
+      "color": "Red",
+      "category": "Lorry",
+      "description": "Nice",
+      "image": "https://4.imimg.com/data4/MP/DB/MY-4940798/lorry-truck-1000x1000.jpg",
+      "quantity": 3,
+      "userId": "5de0",
+      "productId": "b3cf"
+    },
+    {
+      "id": "03f2",
+      "name": "Ashok",
+      "price": "10000",
+      "color": "Red",
+      "category": "Lorry",
+      "description": "Nice",
+      "image": "https://4.imimg.com/data4/MP/DB/MY-4940798/lorry-truck-1000x1000.jpg",
+      "quantity": 3,
+      "productId": "b3cf",
+      "userId": "1"
+    },
+    {
+      "id": "8c2d",
+      "name": "Ashok",
+      "price": "10000",
+      "color": "Red",
+      "category": "Lorry",
+      "description": "Nice",
+      "image": "https://4.imimg.com/data4/MP/DB/MY-4940798/lorry-truck-1000x1000.jpg",
+      "quantity": 3,
+      "productId": "b3cf",
+      "userId": "1"
+    },
+    {
+      "id": "167f",
+      "name": "Nike",
+      "price": "20000",
+      "color": "red",
+      "category": "Shoes",
+      "description": "good",
+      "image": "https://images.meesho.com/images/products/52073089/ccajh_512.avif?width=512",
+      "quantity": 2,
+      "userId": "1",
+      "productId": "d300"
+    },
+    {
+      "id": "3cfc",
+      "name": "Nike",
+      "price": "20000",
+      "color": "red",
+      "category": "Shoes",
+      "description": "good",
+      "image": "https://images.meesho.com/images/products/52073089/ccajh_512.avif?width=512",
+      "quantity": 1,
+      "userId": "1",
+      "productId": "d300"
+    },
+    {
+      "id": "42f4",
+      "name": "Nike",
+      "price": "20000",
+      "color": "red",
+      "category": "Shoes",
+      "description": "good",
+      "image": "https://images.meesho.com/images/products/52073089/ccajh_512.avif?width=512",
+      "quantity": 3,
+      "userId": "1",
+      "productId": "d300"
+    },
+    {
+      "id": "a29a",
+      "name": "HP",
+      "price": "20000",
+      "color": "green",
+      "category": "Laptop",
+      "description": "Nice ",
+      "image": "https://m.media-amazon.com/images/I/41VeyHGM0uL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 2,
+      "productId": "8a7c",
+      "userId": "1"
+    },
+    {
+      "id": "cd3e",
+      "name": "Apple",
+      "price": "10000",
+      "color": "red",
+      "category": "Mobile",
+      "description": "good",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": "4ae8",
+      "userId": "1"
+    },
+    {
+      "id": "a60d",
+      "name": "Ashok",
+      "price": "10000",
+      "color": "Red",
+      "category": "Lorry",
+      "description": "Nice",
+      "image": "https://4.imimg.com/data4/MP/DB/MY-4940798/lorry-truck-1000x1000.jpg",
+      "quantity": 1,
+      "userId": "cfdd",
+      "productId": "b3cf"
+    },
+    {
+      "id": "3eab",
+      "name": "Nike",
+      "price": "20000",
+      "color": "red",
+      "category": "Shoes",
+      "description": "good",
+      "image": "https://images.meesho.com/images/products/52073089/ccajh_512.avif?width=512",
+      "quantity": 3,
+      "userId": "cfdd",
+      "productId": "d300"
+    },
+    {
+      "id": "50f7",
+      "name": "HP",
+      "price": "20000",
+      "color": "green",
+      "category": "Laptop",
+      "description": "Nice ",
+      "image": "https://m.media-amazon.com/images/I/41VeyHGM0uL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 2,
+      "userId": "cfdd",
+      "productId": "8a7c"
+    },
+    {
+      "id": "743e",
+      "name": "Apple",
+      "price": "10000",
+      "color": "red",
+      "category": "Mobile",
+      "description": "good",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "userId": "1",
+      "productId": "4ae8"
+    },
+    {
+      "id": "0a04",
+      "name": "Allensoly",
+      "price": "2000",
+      "color": "Blue",
+      "category": "Jeans",
+      "description": "Good",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSaeDpeK5tfTrc1-YPiHM6CY3xf4XJklDPyA1ioq2J1CRsSzTWxY9qShwwPoMA4rlus41BykaFohFM7jAS6x37ETUqs4XXDgN5S67zy7nMjD66GxbkbEFDX",
+      "quantity": 2,
+      "userId": "ce36",
+      "productId": "1e91"
+    },
+    {
+      "id": "8b4f",
+      "name": "Prime TV",
+      "price": "30000",
+      "color": "Black",
+      "category": "TV",
+      "description": "Goood",
+      "image": "https://m.media-amazon.com/images/I/51ipPzCMRSL._SY300_SX300_QL70_FMwebp_.jpg",
+      "quantity": 2,
+      "userId": "b4ac",
+      "productId": "38af"
+    }
+  ],
+  "orders": [
+    {
+      "id": "162e",
+      "email": "shravanb64@gmail.com",
+      "address": "mysore",
+      "contact": "9036440261",
+      "totalprice": 34100,
+      "userId": "ce36"
+    },
+    {
+      "id": "618a",
+      "email": "shravanb64@gmail.com",
+      "address": "mysore",
+      "contact": "9036440261",
+      "totalprice": 34100,
+      "userId": "ce36"
+    },
+    {
+      "id": "340e",
+      "email": "shravan@gmail.com",
+      "address": "mysore",
+      "contact": "9036440261",
+      "totalprice": 34100,
+      "userId": "ce36"
+    },
+    {
+      "id": "260b",
+      "email": "shravanbsangavi@gmail.com",
+      "address": "mysore",
+      "contact": "9036440261",
+      "totalprice": 34100,
+      "userId": "ce36"
+    },
+    {
+      "id": "8e2c",
+      "email": "shravanbsangavi@gmail.com",
+      "address": "mysore",
+      "contact": "9036440261",
+      "totalprice": 34100,
+      "userId": "ce36"
+    },
+    {
+      "id": "71e7",
+      "email": "shravanbsangavi@gmail.com",
+      "address": "mysore",
+      "contact": "9036440261",
+      "totalprice": 34100,
+      "userId": "ce36"
+    },
+    {
+      "id": "2fea",
+      "email": "shravanb64@gmail.com",
+      "address": "mysore",
+      "contact": "9036440261",
+      "totalprice": 34100,
+      "userId": "ce36"
+    },
+    {
+      "id": "4c09",
+      "email": "shravanbsangavi@gmail.com",
+      "address": "mysore",
+      "contact": "9036440261",
+      "totalprice": 34100,
+      "userId": "ce36"
+    },
+    {
+      "id": "eb41",
+      "email": "shravanb64@gmail.com",
+      "address": "mysore",
+      "contact": "9036440261",
+      "totalprice": 34100,
+      "userId": "ce36"
+    },
+    {
+      "id": "37b4",
+      "email": "shravanbsangavi@gmail.com",
+      "address": "mysore",
+      "contact": "9036440261",
+      "totalprice": 4100,
+      "userId": "ce36"
+    },
+    {
+      "id": "9570",
+      "email": "manu@123",
+      "address": "mysore",
+      "contact": "9036440271",
+      "totalprice": 10100,
+      "userId": "405d"
+    },
+    {
+      "id": "630d",
+      "email": "tan@gmail.com",
+      "address": "bangalore",
+      "contact": "22222",
+      "totalprice": 10100,
+      "userId": "405d"
+    },
+    {
+      "id": "46ea",
+      "email": "manju@gmail.com",
+      "address": "gulbarga",
+      "contact": "4444",
+      "totalprice": 10100,
+      "userId": "405d"
+    },
+    {
+      "id": "9571",
+      "email": "sam@gmail.com",
+      "address": "gulbarga",
+      "contact": "444444",
+      "totalprice": 10100,
+      "userId": "405d"
+    },
+    {
+      "id": "e7ff",
+      "email": "shravan@gmail.com",
+      "address": "gulbarga",
+      "contact": "9036440261",
+      "totalprice": 10100,
+      "userId": "e5c4"
+    }
+  ]
+}
